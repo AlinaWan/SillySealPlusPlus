@@ -60,7 +60,9 @@ The license key is a unique string required to activate SillySeal++. You will be
 
 ---
 
-## 🧠 IMPORTANT: How to Set the Scan Zone
+## 🧠 IMPORTANT: How to Set Up The Macro
+
+### Scan Area
 
 SillySeal++ detects fish in a specific rectangular screen region where the fishing minigame occurs.
 
@@ -79,6 +81,22 @@ bottom = 812
 ````
 If your game window or resolution differs, modify these values accordingly to ensure accurate fish detection. The scan area values should match the highlighted area in the following image example:  
 ![Selection Example](assets/selection_example.png)
+
+### Color Detection
+
+If the macro **fails to detect fish**, or **detects incorrect objects** (like the red bar at the left of the minigame), you may need to **adjust the color tolerance** setting.
+
+Open the `bar_area.ini` file and locate this value:
+
+```ini
+[Settings]
+color_tolerance = 1
+```
+
+* 🔼 **Increase this number** (e.g. `2`, `5`, or `8`) if **fish aren’t being detected**. This allows more flexibility when matching fish colors that may appear slightly different due to lighting or screen effects.
+* 🔽 **Decrease this number** (e.g. `0` or `1`) if the macro is **detecting non-fish objects**. This makes the detection stricter, only allowing near-exact color matches.
+
+> Setting the tolerance too high may cause the macro to click on incorrect targets.
 
 ---
 
