@@ -4,7 +4,7 @@
 
 **Effective Date:** Upon receipt or use
 
-**Last Updated:** July 29, 2025
+**Last Updated:** July 31, 2025
 
 ---
 
@@ -21,6 +21,8 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 * **“Licensor”**, **“Riri”**, **“We”**, or **“Us”** refers to the software owner and licensor of the Software.
 
 * **“Be a Silly Seal”** refers specifically to the Roblox game located at [https://www.roblox.com/games/71816718496622](https://www.roblox.com/games/71816718496622), and **not to any clones, remakes, or similarly named games**.
+
+* **“Listing”** refers to the specific product page, storefront entry, SKU, or distribution instance (such as the Gumroad page, official website listing, or license-specific download link) through which the Software was legally obtained or purchased.
 
 ---
 
@@ -70,9 +72,10 @@ The Software is licensed, not sold. All title, ownership, intellectual property 
 
 Licensor may, from time to time, develop and release updates, patches, enhancements, or new versions of the Software (“Updates”).
 
-**The User may receive, but is not entitled to any Updates.** Licensor may require the User to obtain a **new license** or meet other conditions in order to access or use certain major Updates or new versions.
+**Users are entitled only to updates that are made available under the same specific listing from which the Software was legally obtained, and only if such updates are explicitly included under that listing.**
+Some updates—such as major version upgrades, feature expansions, or premium enhancements—may be excluded from entitlement or may require a separate license, payment, or authorization, even if released under the same listing.
 
-**Access to other versions of the Software is not guaranteed.** This license grants the User access only to the **specific version** of the Software for which it was issued. It does not confer any right to download, use, retain, or revert to any prior or future versions, unless explicitly authorized by the Licensor.
+**This license does not cover software released under other listings or product entries, even if those listings share the same software name or branding.** No right is granted to access, download, or use versions made available elsewhere or revert to older versions unless expressly authorized by Licensor.
 
 ---
 
