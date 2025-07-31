@@ -1,0 +1,20 @@
+# Ignore all Python source files
+*.py
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore all executable files
+*.exe
+
+# Ignore license files
+*.lic
+
+# Ignore ini configuration files
+*.ini
+
+# Ignore build directory and all contents
+build/
+
+# Ignore Visual Studio folder and all contents
+.vs/
