@@ -41,7 +41,7 @@ Beware of counterfeit copies or unofficial distributions—downloading or purcha
 
 ### 🐟 Mythical Fish Catch (Nearly Impossible Without a Macro)
 
-<img src="assets/mythical_fish.gif" width="700">
+<video src="assets/mythical_fish.mp4" width="700" autoplay loop muted></video>
 
 <br>
 
