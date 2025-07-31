@@ -35,6 +35,28 @@ Beware of counterfeit copies or unofficial distributions—downloading or purcha
 
 ---
 
+## 🎥 Live Demo & Screenshots
+
+<div align="center">
+
+### 🐟 Mythical Fish Catch (Nearly Impossible Without a Macro)
+
+<img src="assets/mythical_fish.gif" width="700">
+
+<br>
+
+### 💬 Screenshot: Console Startup
+<img src="assets/console_startup.png" width="700">
+
+<br>
+
+### 💬 Screenshot: Console Logs
+<img src="assets/console_logs.png" width="700">
+
+</div>
+
+---
+
 ## ⚙️ Features
 
 - Macro automation for the 'Be a Silly Seal' fishing minigame
@@ -140,4 +162,3 @@ SillySeal++™ is distributed **as-is** with **no guaranteed support**. This sof
 SillySeal++™ is a trademark of Riri and protected under copyright and common law.
 
 © 2025 Riri. All rights reserved.
-
