@@ -7,17 +7,16 @@
 
 **Tired of missing fish? Let SillySeal++™ fish for you.**
 
-
 SillySeal++ is a **high-performance macro tool** built exclusively for the Roblox game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed by Riri, this precision-crafted software automates the fishing minigame with frame-perfect accuracy using real-time pixel color detection — so you can focus on collecting, upgrading, and being the silliest seal you can be.
 
 <div align="center">
 
-[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://your-gumroad-link.com)  
+[![Buy Now](https://img.shields.io/badge/Buy%20Now-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://angelicwu.gumroad.com/l/SillySealPlusPlus)  
 **Get instant access and license key delivery.**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/SillySealPlusPlus)  
+[![GitHub](https://img.shields.io/badge/View%20Documentation-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AlinaWan/SillySealPlusPlus)  
 **Official documentation and setup instructions.**
 
 </div>
