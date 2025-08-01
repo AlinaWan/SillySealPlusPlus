@@ -19,6 +19,7 @@ SillySeal++ is a **high-performance macro tool** built exclusively for the Roblo
 ## 🎉 **Launch Promo: 20% Off Until August 31!**
 
 Use code **`SEAL20`** at checkout to get **20% off** your purchase of SillySeal++  
+[**Click here to apply the code automatically!**](https://angelicwu.gumroad.com/l/SillySealPlusPlus/SEAL20)  
 🐟 Don't miss your chance to fish smarter — not harder!
 
 </div>
