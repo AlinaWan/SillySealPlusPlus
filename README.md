@@ -157,6 +157,16 @@ Full license terms are available in the [EULA](EULA.md).
 
 SillySeal++™ is distributed **as-is** with **no guaranteed support**. This software is not affiliated with Roblox Corporation or the creators of *Be a Silly Seal*. Use at your own risk. Macro usage in online games may violate terms of service.
 
+### Selling is Not Automated by SillySeal++
+
+SillySeal++ does **not** include automatic selling of fish. This decision is intentional to avoid unintended behavior due to camera movement, UI inconsistencies, or potential game updates.
+
+However, if you wish to automate the selling process, you may use an **external helper tool** (such as TinyTask or similar macro recorders) to record your own selling routine.
+
+> [!WARNING]
+> These tools are **not affiliated with or provided by** the developer. Use them **at your own risk**, and **no support** is offered for troubleshooting them.
+> Do **not** modify or inject code into SillySeal++ to accomplish auto-selling. Doing so violates the license and may result in revocation of access.
+
 ---
 
 SillySeal++™ is a trademark of Riri and protected under copyright and common law.
