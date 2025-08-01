@@ -12,6 +12,19 @@ Purchase the full software at Gumroad.
 
 SillySeal++ is a **high-performance macro tool** built exclusively for the Roblox game [*Be a Silly Seal*](https://www.roblox.com/games/71816718496622). Designed by Riri, this precision-crafted software automates the fishing minigame with frame-perfect accuracy using real-time pixel color detection — so you can focus on collecting, upgrading, and being the silliest seal you can be.
 
+---
+
+<div align="center">
+
+## 🎉 **Launch Promo: 20% Off Until August 31!**
+
+Use code **`SEAL20`** at checkout to get **20% off** your purchase of SillySeal++  
+🐟 Don't miss your chance to fish smarter — not harder!
+
+</div>
+
+---
+
 <div align="center">
 
 <br>
